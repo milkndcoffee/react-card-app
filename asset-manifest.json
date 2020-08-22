@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/milkndcoffee/react-card-app/static/css/main.c7ae43f0.chunk.css",
+    "main.js": "/milkndcoffee/react-card-app/static/js/main.66830bbe.chunk.js",
+    "main.js.map": "/milkndcoffee/react-card-app/static/js/main.66830bbe.chunk.js.map",
+    "runtime-main.js": "/milkndcoffee/react-card-app/static/js/runtime-main.73160ddb.js",
+    "runtime-main.js.map": "/milkndcoffee/react-card-app/static/js/runtime-main.73160ddb.js.map",
+    "static/js/2.335b9932.chunk.js": "/milkndcoffee/react-card-app/static/js/2.335b9932.chunk.js",
+    "static/js/2.335b9932.chunk.js.map": "/milkndcoffee/react-card-app/static/js/2.335b9932.chunk.js.map",
+    "index.html": "/milkndcoffee/react-card-app/index.html",
+    "precache-manifest.5d117a839e3097f3187768945b962583.js": "/milkndcoffee/react-card-app/precache-manifest.5d117a839e3097f3187768945b962583.js",
+    "service-worker.js": "/milkndcoffee/react-card-app/service-worker.js",
+    "static/css/main.c7ae43f0.chunk.css.map": "/milkndcoffee/react-card-app/static/css/main.c7ae43f0.chunk.css.map",
+    "static/js/2.335b9932.chunk.js.LICENSE.txt": "/milkndcoffee/react-card-app/static/js/2.335b9932.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73160ddb.js",
+    "static/js/2.335b9932.chunk.js",
+    "static/css/main.c7ae43f0.chunk.css",
+    "static/js/main.66830bbe.chunk.js"
+  ]
+}
